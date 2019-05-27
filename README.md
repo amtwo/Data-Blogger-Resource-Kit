@@ -1,4 +1,4 @@
-# Data Blogger Resource Kit
+# Data Blogger Resource Kit - DataBlogger.info
 
 Includes resources for use by bloggers, microbloggers, vloggers, and origami enthusiasts who focus on SQL Server, Data, and related topics.
 
