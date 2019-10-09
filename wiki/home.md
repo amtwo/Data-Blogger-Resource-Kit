@@ -11,7 +11,8 @@
 
 <table>
    <tr>
-      <td><a href="resources/graphics-glyphs.md"><img src="img/icons-200x200.png" alt"icons"><br><h2>Graphics, icons, glyphs, etc</h2></a></td>
+      <td><a href="resources/graphics-glyphs.md"><img src="img/icons-200x200.png" alt"icons"></a><br>
+            <a href="resources/graphics-glyphs.md"><h2>Graphics, icons, glyphs, etc</h2></a></td>
       <td></td>
       <td></td>
    </tr>
