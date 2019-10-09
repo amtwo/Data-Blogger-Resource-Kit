@@ -9,6 +9,7 @@
    * [Analyze Boston](https://data.boston.gov/) - Boston, MA, USA open data hub
    * [Cambridge, MA, USA open data](https://data.cambridgema.gov/browse)
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - Repo linking to many other public data set repositories
+* [anonymize.strd.co](https://anonymize.strd.co/) - PowerShell data anonymizer from [Structured Concepts](https://strd.co/); More info available [here](https://sqlsunday.com/2019/10/03/anonymize-your-dev-databases/).
 * [Amazon AWS open data registry](https://registry.opendata.aws/)
    * [Amazon Customer Reviews](https://registry.opendata.aws/amazon-reviews/) - 130+ million customer product reviews are part of this dataset
    * [Global Database of Events, Language, and Tone (GDELT)](https://registry.opendata.aws/gdelt/)
