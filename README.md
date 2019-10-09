@@ -3,7 +3,7 @@
 Includes resources for use by bloggers, microbloggers, vloggers, and origami enthusiasts who focus on SQL Server, Data, and related topics.
 
 ### Resource Wiki
-Github Wiki includes a list of external resources that may be helpful to bloggers & community contributors. Check it out [here](https://github.com/amtwo/Data-Blogger-Resource-Kit/wiki).
+Github Wiki includes a list of external resources that may be helpful to bloggers & community contributors. Check it out [here](/wiki/home.md).
 * Stock Photo repositories
 * Graphics & icons
 * Code formatting

@@ -1,21 +1,11 @@
 # Blogger Resources
 
-## ► [Graphics, icons, glyphs, etc](graphics-glyphs.md) 
+## ► [Graphics, icons, glyphs, etc](/Resources/graphics-glyphs.md) 
 ## ► [Stock Photo Sites](stock-photos.md) 
 ## ► [Graphic Design Help](graphic-design.md) 
 ## ► [PowerPoint slides](graphic-design.md) 
 ## ► [Code utilities](code-utilities.md)
 ## ► [Demo data repositories & mock data creation](mock-demo-data.md)
-
-
-
-
-
-
-
-
-
-
 
 
 
