@@ -4,10 +4,13 @@ Includes resources for use by bloggers, microbloggers, vloggers, and origami ent
 
 ### Resource Wiki
 Github Wiki includes a list of external resources that may be helpful to bloggers & community contributors. Check it out [here](https://github.com/amtwo/Data-Blogger-Resource-Kit/wiki).
-* Stock Photo repositories
-* Graphics & icons
-* Code formatting
-* Hosting resources
+* [Code utilities](https://github.com/amtwo/Data-Blogger-Resource-Kit/wiki/Code-utilities)
+* [Demo & mock data](https://github.com/amtwo/Data-Blogger-Resource-Kit/wiki/Demo-data-repositories-&-Mock-data-creation)
+* [Graphics, icons, glyphs, etc](https://github.com/amtwo/Data-Blogger-Resource-Kit/wiki/Graphics,-icons,-glyphs,-etc)
+* [Graphic design help](https://github.com/amtwo/Data-Blogger-Resource-Kit/wiki/Graphic-design)
+* [Hosting resources](https://github.com/amtwo/Data-Blogger-Resource-Kit/wiki/Hosting-resources)
+* [PowerPoint slides](https://github.com/amtwo/Data-Blogger-Resource-Kit/wiki/Graphic-design)
+* [Stock photo sites](https://github.com/amtwo/Data-Blogger-Resource-Kit/wiki/Stock-photos)
 
 ### BlogMentions.html
 Public listing of Data Bloggers (and microbloggers, and vloggers), including their Twitter/YouTube/Blog URLs

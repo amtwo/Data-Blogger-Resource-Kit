@@ -1,6 +1,0 @@
-## Stock Photos
-* [Pablo](https://pablo.buffer.com/app)
-* [Pexels](https://www.pexels.com/)
-* [Pixabay](https://pixabay.com/)
-* [The Stocks](http://thestocks.im/)
-* [Unsplash](https://unsplash.com/)
