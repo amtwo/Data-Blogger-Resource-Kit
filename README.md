@@ -1,4 +1,5 @@
 # Data Blogger Resource Kit - DataBlogger.info
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
 
 Includes resources for use by bloggers, microbloggers, vloggers, and origami enthusiasts who focus on SQL Server, Data, and related topics.
 
