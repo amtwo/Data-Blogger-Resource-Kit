@@ -24,8 +24,9 @@ If you are a data blogger, chances are, you aren't a web developer or even a fro
 
 ## WordPress hosts
 * [WPEngine](https://wpengine.com/)
+* [Bigscoots](https://www.bigscoots.com/wordpress-optimized-hosting/)
 * [Bluehost](https://www.bluehost.com/wordpress/wordpress-hosting)
-* [Hostgator](https://www.hostgator.com/managed-wordpress-hosting)
 * [DreamPress](https://www.dreamhost.com/wordpress/)
-* [SiteGround](https://www.siteground.com/wordpress-hosting.htm)
+* [Hostgator](https://www.hostgator.com/managed-wordpress-hosting)
 * [Netcetera](https://www.netcetera.co.uk/hosting/wordpress/)
+* [SiteGround](https://www.siteground.com/wordpress-hosting.htm)
